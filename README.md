@@ -1,4 +1,4 @@
-Hadeel Model & controller & service & DTO:  <br>
+Hadeel Model & controller & CRUD & DTO:  <br>
 Report <br>
 Offer<br>
 ServiceProvider<br>
