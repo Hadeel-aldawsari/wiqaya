@@ -1,7 +1,7 @@
-Hadeel Model:  <br>
-Report Model <br>
-Offer Model <br>
-ServiceProvider Model<br>
+Hadeel Model & controller & service & DTO:  <br>
+Report <br>
+Offer<br>
+ServiceProvider<br>
 <br>
 
 Hadeel end point:  <br>
